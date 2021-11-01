@@ -1,1 +1,0 @@
-# redux-shop.git.io
